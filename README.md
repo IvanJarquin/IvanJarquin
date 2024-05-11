@@ -4,7 +4,7 @@ Welcome to my github profile, im a electric electronic egineer pursuing a Data s
 
 ## About me
 - 🎓 Electric electronic engineer graduated from UNAM
-- 📊 I hold a Google Data Analytics certificate.
+- 📊 I hold a Google Data Analytics certificate and Oracle cloud associate certificate.
 - 🌱 I'm constantly seeking new knowledge and experiences in the field of data.
 - 📫 contact: ivanjarquincort@gmail.com
 
